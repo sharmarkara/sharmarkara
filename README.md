@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakesh kumar sharma
+- 👋 Hi, I’m **Rakesh
 - 👀 I’m interested in the field of the data science and the analytics.
 - 🌱 I’m currently learning ML, Statistics , Data analytics etc.
 
