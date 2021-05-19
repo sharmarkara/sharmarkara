@@ -1,7 +1,7 @@
 -### 👋 Hi, I’m *Rakesh!
 
 
-- I'm a Data Science Enthusiast 
+- I'm a Data Science Enthusiast(❁´◡`❁)👨‍💻👨‍💻.
 
 Talking about Personal Stuffs:
 
