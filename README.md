@@ -1,4 +1,7 @@
-- 👋 Hi, I’m **Rakesh
+- 👋 Hi, I’m *Rakesh!
+
+
+-  I'm a Data Science Enthusiast 
 - 👀 I’m interested in the field of the data science and the analytics.
 - 🌱 I’m currently learning ML, Statistics , Data analytics etc.
 
