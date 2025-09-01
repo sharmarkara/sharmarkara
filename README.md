@@ -1,7 +1,7 @@
 - Hi there, I’m *Rakesh!👋👋
 
 
-- I'm a Java Backend Developer, Working in Mphasis Bangalore(❁´◡`❁)👨‍💻👨‍💻.
+- I'm a Java Backend Developer, Working in Infosys Bangalore(❁´◡`❁)👨‍💻👨‍💻.
 
 Talking about Personal Stuffs:
 
